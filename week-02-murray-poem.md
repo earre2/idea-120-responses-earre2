@@ -1,1 +1,3 @@
-# Creation of the First Computer-Based AI
+# Creation of the First Computer-Based AI  
+![First look of ELIZA](https://www.bing.com/images/search?view=detailV2&ccid=YsUetRqY&id=45301F27CD7073C032C075229DE2389CD5DB4740&thid=OIP.YsUetRqY45lIvy-RqS_QegHaFL&mediaurl=https%3A%2F%2Fapps-cdn.athom.com%2Fapp%2Fedu.mit.eliza%2F1%2F629246a3-3d84-4461-978a-717fa0331609%2Fassets%2Fimages%2Flarge.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.62c51eb51a98e39948bf2f91a92fd07a%3Frik%3DQEfb1Zw44p0idQ%26pid%3DImgRaw%26r%3D0&exph=350&expw=500&q=ELIZA+the+first+computer+based+character&simid=608033418299448658&form=IRPRST&ck=CBB232DDF6865E9B2D6441FA7AF07318&selectedindex=1&itb=1&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_TznrAzvS*cp_EEBBC04AE63B79E5ED48BDF8D7BF3092*mid_BB48CB437CD40AD49E3439C49646B593273C6416*simid_607998860991009538*thid_OIP.TznrAzvSoyVT3ZyHEwpWZQAAAA&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0)  
+
