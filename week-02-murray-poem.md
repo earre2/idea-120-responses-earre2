@@ -1,5 +1,5 @@
 # Creation of the First Computer-Based AI  
-![First look at ELIZA](https://en.wikipedia.org/wiki/ELIZA#/media/File:ELIZA_conversation.png)
+![First look at ELIZA](https://www.bing.com/images/search?view=detailV2&ccid=XduYHYtf&id=C20005EC070B34CF8D379BCFE5AB5FDC0F0FB106&thid=OIP.XduYHYtfpFMo3H4D_C8xFwHaEH&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5ddb981d8b5fa45328dc7e03fc2f3117%3frik%3dBrEPD9xfq%252bXPmw%26riu%3dhttp%253a%252f%252fscaruffi.com%252fmind%252fai%252feliza.jpg%26ehk%3dX6raujxfMz7jaGQYAPBgIriC0Ww%252bjVK0fHUShVQoA58%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=334&expw=600&q=eliza+ai&simid=608014348674938678&FORM=IRPRST&ck=419DB959EAA7F1E050F0D683B9989CD6&selectedIndex=1&itb=0&ajaxhist=0&ajaxserp=0)
 
 In the 60's ELIZA was born, an AI delight,  
 A virtual therapist, speaking with insight.   
